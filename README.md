@@ -1,14 +1,14 @@
 # California - Los vaguens
 
-- Un pequeño reproductor musical desarrollado en Python que reproduce una cancion y muestra su letra en la terminal
+- A small music player developed in Python that plays a song and displays its lyrics in the terminal.
 
-## Dependencias
+### Dependencias
 
 - python
 - pygame
 - Visual Studio Code
 
-## Estructura del proyecto
+### Estructura del proyecto
 
 MusicPlayer/
 │
@@ -16,6 +16,6 @@ MusicPlayer/
 ├── main.py
 └── README.md
 
-## Creador de este proyecto
+### Creador de este proyecto
 
 Miguelaz-mx
